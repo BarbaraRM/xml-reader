@@ -1,0 +1,32 @@
+.titulo {
+    font-family: fantasy;
+    padding-top: 15px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.divTitulo {
+    background-color: rgb(102, 102, 255);
+}
+
+.titulo2 {
+    padding-top: 15px;
+    text-shadow: 10px;
+    color: coral;
+    font-weight: bold;
+}
+
+.divBoton {
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+
+.tabla {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.pie {
+    font-family: 'Courier New', Courier, monospace;
+}

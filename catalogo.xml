@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <CD>
+    <TITLE>Empire Burlesque</TITLE>
+    <ARTIST>Bob Dylan</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Columbia</COMPANY>
+    <PRICE>10.90</PRICE>
+    <YEAR>1985</YEAR>
+  </CD>
+  <CD>
+    <TITLE>Red Pill Blues</TITLE>
+    <ARTIST>Maroon 5</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Universal Music</COMPANY>
+    <PRICE>13.90</PRICE>
+    <YEAR>2017</YEAR>
+  </CD>
+  <CD>
+    <TITLE>After Hours</TITLE>
+    <ARTIST>The Weeknd</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Republic Records</COMPANY>
+    <PRICE>35.90</PRICE>
+    <YEAR>2020</YEAR>
+  </CD>
+</CATALOG>
